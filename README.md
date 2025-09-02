@@ -1,4 +1,4 @@
-# 🍎 macOS File Automation Script – by Haris
+# 🍎 macOS File Automation Script – 
 
 Ever wished your Mac could do boring file tasks *automagically* every day? 🪄  
 This little project is for you!
